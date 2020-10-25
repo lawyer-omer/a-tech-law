@@ -1,4 +1,4 @@
-baseURL = "lawyer-omer.github.io"
+baseURL = "https://www.atechlaw.com"
 languageCode = "en-us"
 paginate = 6
 theme = "portio"
