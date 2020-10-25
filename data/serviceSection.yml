@@ -1,0 +1,18 @@
+---
+enable: true
+topTitle: Working Area
+title: Premium Law Service
+subtitle: Compliances is your new premium side now.
+service:
+- title: PEO/EOR
+  content: Consulting your new PEO/EOR strategy. We have umbrella company for all your needs.
+  image: images/service/branding.svg
+- title: Privacy Compliance
+  content: GDPR, CCPA, and more compliance not your problem anymore.
+  image: images/service/ui-ux.svg
+- title: AML Compliance
+  content: Let us make your Anti Money Laundering policy or counter terrorism financial.
+  image: images/service/web.svg
+- title: SaaS Policies and Terms of Services
+  content: We can generate your Privacy Policy and Terms of Services.
+  image: images/service/creative.svg

@@ -1,0 +1,29 @@
+---
+enable: true
+topTitle: My Resume
+title: My Expertises
+subtitle: I am an Attorney at Law focusing on remote work, PEO/EOR. I think the future of work is remote work and I want to contribute the literature on the law of remote work. I am working very hard on this and I creating open-source legal/legal tech projects. I strongly believe in the power of open-source and the law of remote work is going to rise with open-source.
+
+tab1Name: Education
+tab2Name: Experiences
+tab1Target: education
+tab2Target: experience
+
+education:
+  - title: Faculty of Law
+    content: Eastern Mediterranean University (Cyprus)
+    time: 2013
+  - title: Web Development and Coding
+    content: Anatolian University
+    time: 2020
+
+experience:
+  - title: In-House Lawyer 
+    content: Remote Team Inc.
+    time: 2019-2020
+  - title: Attorney at Law
+    content: A+ Law Firm
+    time: 2018-2019
+  - title: Sales Manager
+    content: Rio Verde Coffee
+    time: 2016-2018

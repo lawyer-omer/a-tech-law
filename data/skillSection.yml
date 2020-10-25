@@ -1,0 +1,13 @@
+---
+enable: true
+topTitle: My Skills
+title: Why you want to work with me?
+subtitle: My goal is to build a strong professional business for you.
+
+skill:
+  - title: Compliance
+    percent: 79
+  - title: Anti Money Laundering
+    percent: 70
+  - title: Web Development
+    percent: 45

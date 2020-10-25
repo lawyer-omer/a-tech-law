@@ -1,0 +1,18 @@
+---
+enable: true
+topTitle: Testimonial
+title: What People are Say About Me?
+
+testimonial:
+  - name: Ugur Yigit
+    comment: Omer Faruk was really interested in me, I called him on the phone, explained my problems, he was very helpful, he spared his time, I am grateful, thank you very much.
+    time: Mar 20, 2020
+    star: 5
+  - name: Tolga Seymen
+    comment: One of the few lawyers who take a professional approach to problems. Long years with Omer in our company. I would recommend.
+    time: Mar 08, 2019
+    star: 5
+  - name: Leyla Arslan
+    comment: It doesn't matter wher do you live. There are a lot of things I want to write, but I cannot put together the words. Let me summarize in one word Mr. Omer Faruk is an excellent lawyer who does his job properly. FRIENDS YOU DON'T COMPLY WITH A MAN LIKE A MAN. I am glad you are here, lawyer, thank you very much
+    time: Jan 16, 2020
+    star: 5
