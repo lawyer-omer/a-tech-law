@@ -165,7 +165,7 @@ $(document).ready(function () {
         youtube: {
           index: "youtube.com/",
           id: "v=",
-          src: "//www.youtube.com/watch?v=9G7mSJeuim0&t=4s",
+          src: "//youtu.be/9G7mSJeuim0",
         },
       },
     },
