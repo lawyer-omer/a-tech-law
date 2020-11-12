@@ -24,10 +24,7 @@ title = "A Tech Law"
     name = "Blog"
     url = "blog"
     weight = 5
-  [[menu.main]]
-    name = "Contact"
-    url = "#contact"
-    weight = 6
+    
 
   # Sitemap Menu
   [[menu.sitemap]]
